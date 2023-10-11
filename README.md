@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# Depolyed URL:
+https://master--cute-profiterole-e58139.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
