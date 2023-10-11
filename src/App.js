@@ -21,7 +21,7 @@ function App() {
     <div className="App">
       .
       <DataProvider>
-        <Header title={"facebook"} />
+        <Header title={"Hacker"} />
         <Nav />
         <Routes>
           <Route path="/" element={<Home />} />
